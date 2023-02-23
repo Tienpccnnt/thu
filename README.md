@@ -1,5 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <meta chaser="utf-8)
-    
+    <meta charser="utf-8)
+</head>
+<body>
+
